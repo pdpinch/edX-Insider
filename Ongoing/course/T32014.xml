@@ -1,0 +1,6 @@
+<course advanced_modules="[&quot;lti&quot;, &quot;concept&quot;, &quot;done&quot;, &quot;profile&quot;, &quot;recommender&quot;]" course_image="anant_code.png" display_name="edX Insider" enrollment_start="2014-03-01T04:00:00Z" graceperiod="1 days" start="2014-03-03T00:00:00Z">
+  <chapter url_name="Week_2_Technology_enabled_constructive_learning"/>
+  <chapter url_name="Mastery_Learning"/>
+  <chapter url_name="Profile"/>
+  <wiki slug="edX.OLX101.T32014"/>
+</course>

@@ -1,0 +1,5 @@
+<vertical chrome="tabs" default_tab="profile" display_name="Profile">
+  <html url_name="profile_tabs"/>
+  <profile url_name="Profile"/>
+  <html url_name="profile_errata"/>
+</vertical>

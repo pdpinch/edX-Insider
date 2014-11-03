@@ -1,4 +1,4 @@
-<problem display_name="Survey: Where do we go from here?">
+<problem url_name="res_survey" filename="res_survey" display_name="Survey: What next?">
   <script type="loncapa/python">
 def true_checker(expect, ans):
     return True
@@ -9,17 +9,14 @@ def true_checker(expect, ans):
   <customresponse answer="..." cfn="true_checker" type="ci">
     <textbox rows="5"/>
   </customresponse>
-  
   <p> What could be improved? </p>
   <customresponse answer="..." cfn="true_checker" type="ci">
     <textbox rows="5"/>
   </customresponse>
-  
   <p> Where should we go with this? More units on teaching and learning? Units as might be useful for new employees on other topics (vision, architecture, strategy, etc.)? Similar externally-facing units? </p>
   <customresponse answer="..." cfn="true_checker" type="ci">
     <textbox rows="5"/>
   </customresponse>
-  
   <p> What were some of the strengths and weaknesses of the edX platform? How could we improve it to better leverage the strengths and to overcome the weaknesses? </p>
   <customresponse answer="..." cfn="true_checker" type="ci">
     <textbox rows="5"/>
